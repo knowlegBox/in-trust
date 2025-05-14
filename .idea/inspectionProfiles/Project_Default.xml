@@ -1,0 +1,66 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.13" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="38">
+            <item index="0" class="java.lang.String" itemvalue="graphql-relay" />
+            <item index="1" class="java.lang.String" itemvalue="six" />
+            <item index="2" class="java.lang.String" itemvalue="graphql-core" />
+            <item index="3" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="4" class="java.lang.String" itemvalue="text-unidecode" />
+            <item index="5" class="java.lang.String" itemvalue="tzdata" />
+            <item index="6" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="7" class="java.lang.String" itemvalue="asgiref" />
+            <item index="8" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="9" class="java.lang.String" itemvalue="promise" />
+            <item index="10" class="java.lang.String" itemvalue="graphene" />
+            <item index="11" class="java.lang.String" itemvalue="sqlparse" />
+            <item index="12" class="java.lang.String" itemvalue="graphene-django" />
+            <item index="13" class="java.lang.String" itemvalue="django" />
+            <item index="14" class="java.lang.String" itemvalue="django-filter" />
+            <item index="15" class="java.lang.String" itemvalue="django-settings-holder" />
+            <item index="16" class="java.lang.String" itemvalue="graphene-django-query-optimizer" />
+            <item index="17" class="java.lang.String" itemvalue="django-cors-headers" />
+            <item index="18" class="java.lang.String" itemvalue="django-graphql-jwt" />
+            <item index="19" class="java.lang.String" itemvalue="firebase-admin" />
+            <item index="20" class="java.lang.String" itemvalue="graphene-file-upload" />
+            <item index="21" class="java.lang.String" itemvalue="mypy" />
+            <item index="22" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="23" class="java.lang.String" itemvalue="black" />
+            <item index="24" class="java.lang.String" itemvalue="psycopg2-binary" />
+            <item index="25" class="java.lang.String" itemvalue="rich" />
+            <item index="26" class="java.lang.String" itemvalue="django-allow-cidr" />
+            <item index="27" class="java.lang.String" itemvalue="whitenoise" />
+            <item index="28" class="java.lang.String" itemvalue="firebase" />
+            <item index="29" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="30" class="java.lang.String" itemvalue="ipykernel" />
+            <item index="31" class="java.lang.String" itemvalue="flake8" />
+            <item index="32" class="java.lang.String" itemvalue="graphene-luna" />
+            <item index="33" class="java.lang.String" itemvalue="tqdm" />
+            <item index="34" class="java.lang.String" itemvalue="psycopg" />
+            <item index="35" class="java.lang.String" itemvalue="google-api-python-client" />
+            <item index="36" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="37" class="java.lang.String" itemvalue="uvicorn" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="UnresolvedReference" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
